@@ -1,0 +1,760 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36FF7D13-A40D-46DD-97B3-A7DBF49F63D8}|namespace DPM225438_NguyenPhiLong_Pattern10_Facade\\DPM225438_NguyenPhiLong_Pattern10_Facade.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\namespace dpm225438_nguyenphilong_pattern10_facade\\dpm225438_nguyenphilong_pattern10_facade.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{36FF7D13-A40D-46DD-97B3-A7DBF49F63D8}|namespace DPM225438_NguyenPhiLong_Pattern10_Facade\\DPM225438_NguyenPhiLong_Pattern10_Facade.csproj|solutionrelative:namespace dpm225438_nguyenphilong_pattern10_facade\\dpm225438_nguyenphilong_pattern10_facade.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6BD9B29-CA57-48B0-9063-222C806068EB}|DPM225438_NguyenPhiLong_RealWorld22_Template\\DPM225438_NguyenPhiLong_RealWorld22_Template.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_realworld22_template\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6BD9B29-CA57-48B0-9063-222C806068EB}|DPM225438_NguyenPhiLong_RealWorld22_Template\\DPM225438_NguyenPhiLong_RealWorld22_Template.csproj|solutionrelative:dpm225438_nguyenphilong_realworld22_template\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16B0B1AD-9C64-4FF3-B08A-4243B920CA80}|DPM225438_NguyenPhiLong_Pattern22_Template\\DPM225438_NguyenPhiLong_Pattern22_Template.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_pattern22_template\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B0B1AD-9C64-4FF3-B08A-4243B920CA80}|DPM225438_NguyenPhiLong_Pattern22_Template\\DPM225438_NguyenPhiLong_Pattern22_Template.csproj|solutionrelative:dpm225438_nguyenphilong_pattern22_template\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37BE0EC2-1994-43F4-B2E8-29256AD52AAF}|DPM225438_NguyenPhiLong_RealWorld21_Strategy\\DPM225438_NguyenPhiLong_RealWorld21_Strategy.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_realworld21_strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37BE0EC2-1994-43F4-B2E8-29256AD52AAF}|DPM225438_NguyenPhiLong_RealWorld21_Strategy\\DPM225438_NguyenPhiLong_RealWorld21_Strategy.csproj|solutionrelative:dpm225438_nguyenphilong_realworld21_strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA5B5CCC-2D7E-4AE5-A68D-9562ADD5EBAD}|DPM225438_NguyenPhiLong_Pattern21_Strategy\\DPM225438_NguyenPhiLong_Pattern21_Strategy.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_pattern21_strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA5B5CCC-2D7E-4AE5-A68D-9562ADD5EBAD}|DPM225438_NguyenPhiLong_Pattern21_Strategy\\DPM225438_NguyenPhiLong_Pattern21_Strategy.csproj|solutionrelative:dpm225438_nguyenphilong_pattern21_strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2825FEC9-D50B-4F2C-999E-80CDD556023B}|DPM225438_NguyenPhiLong_RealWorld20_State\\DPM225438_NguyenPhiLong_RealWorld20_State.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_realworld20_state\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2825FEC9-D50B-4F2C-999E-80CDD556023B}|DPM225438_NguyenPhiLong_RealWorld20_State\\DPM225438_NguyenPhiLong_RealWorld20_State.csproj|solutionrelative:dpm225438_nguyenphilong_realworld20_state\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B588F3E-1AEE-416E-AAA0-B205CBA54B56}|DPM225438_NguyenPhiLong_Pattern20_State\\DPM225438_NguyenPhiLong_Pattern20_State.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_pattern20_state\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B588F3E-1AEE-416E-AAA0-B205CBA54B56}|DPM225438_NguyenPhiLong_Pattern20_State\\DPM225438_NguyenPhiLong_Pattern20_State.csproj|solutionrelative:dpm225438_nguyenphilong_pattern20_state\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDC0BED2-D735-48E3-B7BC-BA98FD1FF770}|DPM225438_NguyenPhiLong_RealWorld19_Observer\\DPM225438_NguyenPhiLong_RealWorld19_Observer.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_realworld19_observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDC0BED2-D735-48E3-B7BC-BA98FD1FF770}|DPM225438_NguyenPhiLong_RealWorld19_Observer\\DPM225438_NguyenPhiLong_RealWorld19_Observer.csproj|solutionrelative:dpm225438_nguyenphilong_realworld19_observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D86B88DB-4AB2-41EC-939F-2D209940E110}|DPM225438_NguyenPhiLong_Pattern19_Observer\\DPM225438_NguyenPhiLong_Pattern19_Observer.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_pattern19_observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D86B88DB-4AB2-41EC-939F-2D209940E110}|DPM225438_NguyenPhiLong_Pattern19_Observer\\DPM225438_NguyenPhiLong_Pattern19_Observer.csproj|solutionrelative:dpm225438_nguyenphilong_pattern19_observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7DECF1-461B-48EF-ACE7-CAB70A5967D7}|DPM225438_NguyenPhiLong_RealWorld18_Memento\\DPM225438_NguyenPhiLong_RealWorld18_Memento.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_realworld18_memento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7DECF1-461B-48EF-ACE7-CAB70A5967D7}|DPM225438_NguyenPhiLong_RealWorld18_Memento\\DPM225438_NguyenPhiLong_RealWorld18_Memento.csproj|solutionrelative:dpm225438_nguyenphilong_realworld18_memento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45D88BF-3B2A-4885-828A-CEAF799A82C3}|DPM225438_NguyenPhiLong_Pattern18_Memento\\DPM225438_NguyenPhiLong_Pattern18_Memento.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_pattern18_memento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45D88BF-3B2A-4885-828A-CEAF799A82C3}|DPM225438_NguyenPhiLong_Pattern18_Memento\\DPM225438_NguyenPhiLong_Pattern18_Memento.csproj|solutionrelative:dpm225438_nguyenphilong_pattern18_memento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17105AAC-A6A3-4056-AC68-8C32E72C265A}|DPM225438_NguyenPhiLong_RealWorld17_Mediator\\DPM225438_NguyenPhiLong_RealWorld17_Mediator.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_realworld17_mediator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17105AAC-A6A3-4056-AC68-8C32E72C265A}|DPM225438_NguyenPhiLong_RealWorld17_Mediator\\DPM225438_NguyenPhiLong_RealWorld17_Mediator.csproj|solutionrelative:dpm225438_nguyenphilong_realworld17_mediator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045A5689-0FD7-4D7F-867C-E13E95824AF0}|DPM225438_NguyenPhiLong_Pattern17_Mediator\\DPM225438_NguyenPhiLong_Pattern17_Mediator.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_pattern17_mediator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045A5689-0FD7-4D7F-867C-E13E95824AF0}|DPM225438_NguyenPhiLong_Pattern17_Mediator\\DPM225438_NguyenPhiLong_Pattern17_Mediator.csproj|solutionrelative:dpm225438_nguyenphilong_pattern17_mediator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61953A15-3802-4345-AC58-778687030DB0}|DPM225438_NguyenPhiLong_RealWorld16_Iterator\\DPM225438_NguyenPhiLong_RealWorld16_Iterator.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_realworld16_iterator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61953A15-3802-4345-AC58-778687030DB0}|DPM225438_NguyenPhiLong_RealWorld16_Iterator\\DPM225438_NguyenPhiLong_RealWorld16_Iterator.csproj|solutionrelative:dpm225438_nguyenphilong_realworld16_iterator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D262196F-6137-4B05-BAE3-11E1D272C6E6}|DPM225438_NguyenPhiLong_Pattern16_Iterator\\DPM225438_NguyenPhiLong_Pattern16_Iterator.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_pattern16_iterator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D262196F-6137-4B05-BAE3-11E1D272C6E6}|DPM225438_NguyenPhiLong_Pattern16_Iterator\\DPM225438_NguyenPhiLong_Pattern16_Iterator.csproj|solutionrelative:dpm225438_nguyenphilong_pattern16_iterator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF4EB4C-2303-4C5D-B261-A63CAD8AAFA5}|DPM225438_NguyenPhiLong_RealWorld15_Interpreter\\DPM225438_NguyenPhiLong_RealWorld15_Interpreter.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_realworld15_interpreter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF4EB4C-2303-4C5D-B261-A63CAD8AAFA5}|DPM225438_NguyenPhiLong_RealWorld15_Interpreter\\DPM225438_NguyenPhiLong_RealWorld15_Interpreter.csproj|solutionrelative:dpm225438_nguyenphilong_realworld15_interpreter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8C7E9F-A838-466E-8DAF-59AD769DF298}|DPM225438_NguyenPhiLong_Pattern15_Interpreter\\DPM225438_NguyenPhiLong_Pattern15_Interpreter.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_pattern15_interpreter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8C7E9F-A838-466E-8DAF-59AD769DF298}|DPM225438_NguyenPhiLong_Pattern15_Interpreter\\DPM225438_NguyenPhiLong_Pattern15_Interpreter.csproj|solutionrelative:dpm225438_nguyenphilong_pattern15_interpreter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DDA58C2-485C-4B23-8DC7-EDA72C574D60}|DPM225438_NguyenPhiLong_Pattern14_Command\\DPM225438_NguyenPhiLong_Pattern14_Command.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_pattern14_command\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DDA58C2-485C-4B23-8DC7-EDA72C574D60}|DPM225438_NguyenPhiLong_Pattern14_Command\\DPM225438_NguyenPhiLong_Pattern14_Command.csproj|solutionrelative:dpm225438_nguyenphilong_pattern14_command\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99438C42-AE3D-464A-920F-E6B32645CE53}|DPM225438_NguyenPhiLong_RealWorld14_Command\\DPM225438_NguyenPhiLong_RealWorld14_Command.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_realworld14_command\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99438C42-AE3D-464A-920F-E6B32645CE53}|DPM225438_NguyenPhiLong_RealWorld14_Command\\DPM225438_NguyenPhiLong_RealWorld14_Command.csproj|solutionrelative:dpm225438_nguyenphilong_realworld14_command\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F87386-127A-4F12-B8DA-84386BF92245}|DPM225438_NguyenPhiLong_Pattern13_Chain\\DPM225438_NguyenPhiLong_Pattern13_Chain.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_pattern13_chain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F87386-127A-4F12-B8DA-84386BF92245}|DPM225438_NguyenPhiLong_Pattern13_Chain\\DPM225438_NguyenPhiLong_Pattern13_Chain.csproj|solutionrelative:dpm225438_nguyenphilong_pattern13_chain\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD95494-6298-4E89-93C3-F02B326D4CEB}|DPM225438_NguyenPhiLong_RealWorld12_Proxy\\DPM225438_NguyenPhiLong_RealWorld12_Proxy.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_realworld12_proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FD95494-6298-4E89-93C3-F02B326D4CEB}|DPM225438_NguyenPhiLong_RealWorld12_Proxy\\DPM225438_NguyenPhiLong_RealWorld12_Proxy.csproj|solutionrelative:dpm225438_nguyenphilong_realworld12_proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99EB295-4AF2-488D-A4A3-F8C53157E7AC}|DPM225438_NguyenPhiLong_Pattern11_Flyweight\\DPM225438_NguyenPhiLong_Pattern11_Flyweight.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_pattern11_flyweight\\dpm225438_nguyenphilong_pattern11_flyweight.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F99EB295-4AF2-488D-A4A3-F8C53157E7AC}|DPM225438_NguyenPhiLong_Pattern11_Flyweight\\DPM225438_NguyenPhiLong_Pattern11_Flyweight.csproj|solutionrelative:dpm225438_nguyenphilong_pattern11_flyweight\\dpm225438_nguyenphilong_pattern11_flyweight.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F5E4CB-0C01-4690-939E-4DCAF7132193}|DPM225438_NguyenPhiLong_RealWorld09_Decorator\\DPM225438_NguyenPhiLong_Pattern09_Decorator.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_realworld09_decorator\\dpm225438_nguyenphilong_pattern09_decorator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{25F5E4CB-0C01-4690-939E-4DCAF7132193}|DPM225438_NguyenPhiLong_RealWorld09_Decorator\\DPM225438_NguyenPhiLong_Pattern09_Decorator.csproj|solutionrelative:dpm225438_nguyenphilong_realworld09_decorator\\dpm225438_nguyenphilong_pattern09_decorator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F99EB295-4AF2-488D-A4A3-F8C53157E7AC}|DPM225438_NguyenPhiLong_Pattern11_Flyweight\\DPM225438_NguyenPhiLong_Pattern11_Flyweight.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_pattern11_flyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F99EB295-4AF2-488D-A4A3-F8C53157E7AC}|DPM225438_NguyenPhiLong_Pattern11_Flyweight\\DPM225438_NguyenPhiLong_Pattern11_Flyweight.csproj|solutionrelative:dpm225438_nguyenphilong_pattern11_flyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD0434F-02B0-4EBA-BDD5-CD0CACF85397}|DPM225438_NguyenPhiLong_Pattern08_Composite\\DPM225438_NguyenPhiLong_Pattern08_Composite.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_pattern08_composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD0434F-02B0-4EBA-BDD5-CD0CACF85397}|DPM225438_NguyenPhiLong_Pattern08_Composite\\DPM225438_NguyenPhiLong_Pattern08_Composite.csproj|solutionrelative:dpm225438_nguyenphilong_pattern08_composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD0434F-02B0-4EBA-BDD5-CD0CACF85397}|DPM225438_NguyenPhiLong_Pattern08_Composite\\DPM225438_NguyenPhiLong_Pattern08_Composite.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_pattern08_composite\\composite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD0434F-02B0-4EBA-BDD5-CD0CACF85397}|DPM225438_NguyenPhiLong_Pattern08_Composite\\DPM225438_NguyenPhiLong_Pattern08_Composite.csproj|solutionrelative:dpm225438_nguyenphilong_pattern08_composite\\composite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD0434F-02B0-4EBA-BDD5-CD0CACF85397}|DPM225438_NguyenPhiLong_Pattern08_Composite\\DPM225438_NguyenPhiLong_Pattern08_Composite.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_pattern08_composite\\leaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD0434F-02B0-4EBA-BDD5-CD0CACF85397}|DPM225438_NguyenPhiLong_Pattern08_Composite\\DPM225438_NguyenPhiLong_Pattern08_Composite.csproj|solutionrelative:dpm225438_nguyenphilong_pattern08_composite\\leaf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD0434F-02B0-4EBA-BDD5-CD0CACF85397}|DPM225438_NguyenPhiLong_Pattern08_Composite\\DPM225438_NguyenPhiLong_Pattern08_Composite.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_pattern08_composite\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FD0434F-02B0-4EBA-BDD5-CD0CACF85397}|DPM225438_NguyenPhiLong_Pattern08_Composite\\DPM225438_NguyenPhiLong_Pattern08_Composite.csproj|solutionrelative:dpm225438_nguyenphilong_pattern08_composite\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FD0434F-02B0-4EBA-BDD5-CD0CACF85397}|DPM225438_NguyenPhiLong_Pattern08_Composite\\DPM225438_NguyenPhiLong_Pattern08_Composite.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_pattern08_composite\\dpm225438_nguyenphilong_pattern08_composite.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4FD0434F-02B0-4EBA-BDD5-CD0CACF85397}|DPM225438_NguyenPhiLong_Pattern08_Composite\\DPM225438_NguyenPhiLong_Pattern08_Composite.csproj|solutionrelative:dpm225438_nguyenphilong_pattern08_composite\\dpm225438_nguyenphilong_pattern08_composite.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32CB733F-FE49-4245-85CF-C82BD66A6321}|DPM225438_NguyenPhiLong_RealWorld07_Bridge\\DPM225438_NguyenPhiLong_RealWorld07_Bridge.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_realworld07_bridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32CB733F-FE49-4245-85CF-C82BD66A6321}|DPM225438_NguyenPhiLong_RealWorld07_Bridge\\DPM225438_NguyenPhiLong_RealWorld07_Bridge.csproj|solutionrelative:dpm225438_nguyenphilong_realworld07_bridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A815FA-992E-44DB-B9FF-B149876DB029}|DPM225438_NguyenPhiLong_RealWorld13_Proxy\\DPM225438_NguyenPhiLong_RealWorld13_Chain.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_realworld13_proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A815FA-992E-44DB-B9FF-B149876DB029}|DPM225438_NguyenPhiLong_RealWorld13_Proxy\\DPM225438_NguyenPhiLong_RealWorld13_Chain.csproj|solutionrelative:dpm225438_nguyenphilong_realworld13_proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0723B5DC-DAA9-477B-972A-A871C577DBC7}|DPM225438_NguyenPhiLong_Patern12_Proxy\\DPM225438_NguyenPhiLong_Pattern12_Proxy.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_patern12_proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0723B5DC-DAA9-477B-972A-A871C577DBC7}|DPM225438_NguyenPhiLong_Patern12_Proxy\\DPM225438_NguyenPhiLong_Pattern12_Proxy.csproj|solutionrelative:dpm225438_nguyenphilong_patern12_proxy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A459F196-7A78-4487-BC24-ABE8DB55C132}|DPM225438_NguyenPhiLong_Patern11_Flyweight\\DPM225438_NguyenPhiLong_RealWorld11_Flyweight.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_patern11_flyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A459F196-7A78-4487-BC24-ABE8DB55C132}|DPM225438_NguyenPhiLong_Patern11_Flyweight\\DPM225438_NguyenPhiLong_RealWorld11_Flyweight.csproj|solutionrelative:dpm225438_nguyenphilong_patern11_flyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B84947-FE42-406B-9B46-F9585A967008}|DPM225438_NguyenPhiLong_RealWorld010_Facade\\DPM225438_NguyenPhiLong_RealWorld10_Facade.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_realworld010_facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B84947-FE42-406B-9B46-F9585A967008}|DPM225438_NguyenPhiLong_RealWorld010_Facade\\DPM225438_NguyenPhiLong_RealWorld10_Facade.csproj|solutionrelative:dpm225438_nguyenphilong_realworld010_facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36FF7D13-A40D-46DD-97B3-A7DBF49F63D8}|namespace DPM225438_NguyenPhiLong_Pattern10_Facade\\DPM225438_NguyenPhiLong_Pattern10_Facade.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\namespace dpm225438_nguyenphilong_pattern10_facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36FF7D13-A40D-46DD-97B3-A7DBF49F63D8}|namespace DPM225438_NguyenPhiLong_Pattern10_Facade\\DPM225438_NguyenPhiLong_Pattern10_Facade.csproj|solutionrelative:namespace dpm225438_nguyenphilong_pattern10_facade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB481601-4C85-444E-8519-7D45C0E68251}|namespace DPM225438_NguyenPhiLong_RealWorld09_Decorator\\DPM225438_NguyenPhiLong_RealWorld09_Decorator.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\namespace dpm225438_nguyenphilong_realworld09_decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB481601-4C85-444E-8519-7D45C0E68251}|namespace DPM225438_NguyenPhiLong_RealWorld09_Decorator\\DPM225438_NguyenPhiLong_RealWorld09_Decorator.csproj|solutionrelative:namespace dpm225438_nguyenphilong_realworld09_decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F5E4CB-0C01-4690-939E-4DCAF7132193}|DPM225438_NguyenPhiLong_RealWorld09_Decorator\\DPM225438_NguyenPhiLong_Pattern09_Decorator.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_realworld09_decorator\\concretedecoratora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F5E4CB-0C01-4690-939E-4DCAF7132193}|DPM225438_NguyenPhiLong_RealWorld09_Decorator\\DPM225438_NguyenPhiLong_Pattern09_Decorator.csproj|solutionrelative:dpm225438_nguyenphilong_realworld09_decorator\\concretedecoratora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F5E4CB-0C01-4690-939E-4DCAF7132193}|DPM225438_NguyenPhiLong_RealWorld09_Decorator\\DPM225438_NguyenPhiLong_Pattern09_Decorator.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_realworld09_decorator\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F5E4CB-0C01-4690-939E-4DCAF7132193}|DPM225438_NguyenPhiLong_RealWorld09_Decorator\\DPM225438_NguyenPhiLong_Pattern09_Decorator.csproj|solutionrelative:dpm225438_nguyenphilong_realworld09_decorator\\decorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F5E4CB-0C01-4690-939E-4DCAF7132193}|DPM225438_NguyenPhiLong_RealWorld09_Decorator\\DPM225438_NguyenPhiLong_Pattern09_Decorator.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_realworld09_decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F5E4CB-0C01-4690-939E-4DCAF7132193}|DPM225438_NguyenPhiLong_RealWorld09_Decorator\\DPM225438_NguyenPhiLong_Pattern09_Decorator.csproj|solutionrelative:dpm225438_nguyenphilong_realworld09_decorator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F5E4CB-0C01-4690-939E-4DCAF7132193}|DPM225438_NguyenPhiLong_RealWorld09_Decorator\\DPM225438_NguyenPhiLong_Pattern09_Decorator.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_realworld09_decorator\\concretedecoratorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F5E4CB-0C01-4690-939E-4DCAF7132193}|DPM225438_NguyenPhiLong_RealWorld09_Decorator\\DPM225438_NguyenPhiLong_Pattern09_Decorator.csproj|solutionrelative:dpm225438_nguyenphilong_realworld09_decorator\\concretedecoratorb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F5E4CB-0C01-4690-939E-4DCAF7132193}|DPM225438_NguyenPhiLong_RealWorld09_Decorator\\DPM225438_NguyenPhiLong_Pattern09_Decorator.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_realworld09_decorator\\concretecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F5E4CB-0C01-4690-939E-4DCAF7132193}|DPM225438_NguyenPhiLong_RealWorld09_Decorator\\DPM225438_NguyenPhiLong_Pattern09_Decorator.csproj|solutionrelative:dpm225438_nguyenphilong_realworld09_decorator\\concretecomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F5E4CB-0C01-4690-939E-4DCAF7132193}|DPM225438_NguyenPhiLong_RealWorld09_Decorator\\DPM225438_NguyenPhiLong_Pattern09_Decorator.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_realworld09_decorator\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F5E4CB-0C01-4690-939E-4DCAF7132193}|DPM225438_NguyenPhiLong_RealWorld09_Decorator\\DPM225438_NguyenPhiLong_Pattern09_Decorator.csproj|solutionrelative:dpm225438_nguyenphilong_realworld09_decorator\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C0BE83-7C27-442F-95A6-96CE998DE4DC}|DPM225438_NguyenPhiLong_RealWorld09_Composite\\DPM225438_NguyenPhiLong_RealWorld08_Composite.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_realworld09_composite\\compositeelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C0BE83-7C27-442F-95A6-96CE998DE4DC}|DPM225438_NguyenPhiLong_RealWorld09_Composite\\DPM225438_NguyenPhiLong_RealWorld08_Composite.csproj|solutionrelative:dpm225438_nguyenphilong_realworld09_composite\\compositeelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C0BE83-7C27-442F-95A6-96CE998DE4DC}|DPM225438_NguyenPhiLong_RealWorld09_Composite\\DPM225438_NguyenPhiLong_RealWorld08_Composite.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_realworld09_composite\\primitiveelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C0BE83-7C27-442F-95A6-96CE998DE4DC}|DPM225438_NguyenPhiLong_RealWorld09_Composite\\DPM225438_NguyenPhiLong_RealWorld08_Composite.csproj|solutionrelative:dpm225438_nguyenphilong_realworld09_composite\\primitiveelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C0BE83-7C27-442F-95A6-96CE998DE4DC}|DPM225438_NguyenPhiLong_RealWorld09_Composite\\DPM225438_NguyenPhiLong_RealWorld08_Composite.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_realworld09_composite\\drawingelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C0BE83-7C27-442F-95A6-96CE998DE4DC}|DPM225438_NguyenPhiLong_RealWorld09_Composite\\DPM225438_NguyenPhiLong_RealWorld08_Composite.csproj|solutionrelative:dpm225438_nguyenphilong_realworld09_composite\\drawingelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C0BE83-7C27-442F-95A6-96CE998DE4DC}|DPM225438_NguyenPhiLong_RealWorld09_Composite\\DPM225438_NguyenPhiLong_RealWorld08_Composite.csproj|c:\\users\\admin\\desktop\\dpm225438_nguyenphilong_ptbtpm\\dpm225438_nguyenphilong_realworld09_composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C0BE83-7C27-442F-95A6-96CE998DE4DC}|DPM225438_NguyenPhiLong_RealWorld09_Composite\\DPM225438_NguyenPhiLong_RealWorld08_Composite.csproj|solutionrelative:dpm225438_nguyenphilong_realworld09_composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld22_Template\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_RealWorld22_Template\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld22_Template\\Program.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_RealWorld22_Template\\Program.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAADwv28AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:55:21.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Pattern21_Strategy\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_Pattern21_Strategy\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Pattern21_Strategy\\Program.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_Pattern21_Strategy\\Program.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAADwv0wAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:53:11.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld20_State\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_RealWorld20_State\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld20_State\\Program.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_RealWorld20_State\\Program.cs",
+              "ViewState": "AQIAAP4AAAAAAAAAAAAkwBwBAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:52:31.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Pattern20_State\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_Pattern20_State\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Pattern20_State\\Program.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_Pattern20_State\\Program.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAswEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:51:57.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld19_Observer\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_RealWorld19_Observer\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld19_Observer\\Program.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_RealWorld19_Observer\\Program.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAADwv5MAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:51:29.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Pattern19_Observer\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_Pattern19_Observer\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Pattern19_Observer\\Program.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_Pattern19_Observer\\Program.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAADwv2IAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:50:41.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld18_Memento\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_RealWorld18_Memento\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld18_Memento\\Program.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_RealWorld18_Memento\\Program.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAADwv4cAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:49:56.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Pattern18_Memento\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_Pattern18_Memento\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Pattern18_Memento\\Program.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_Pattern18_Memento\\Program.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAADwv1IAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:49:12.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld17_Mediator\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_RealWorld17_Mediator\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld17_Mediator\\Program.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_RealWorld17_Mediator\\Program.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAqwKwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:48:28.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Pattern17_Mediator\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_Pattern17_Mediator\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Pattern17_Mediator\\Program.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_Pattern17_Mediator\\Program.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAADwv4kAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:47:46.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld16_Iterator\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_RealWorld16_Iterator\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld16_Iterator\\Program.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_RealWorld16_Iterator\\Program.cs",
+              "ViewState": "AQIAAIoAAAAAAAAAAADwv7EAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:47:06.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DPM225438_NguyenPhiLong_Pattern10_Facade.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\namespace DPM225438_NguyenPhiLong_Pattern10_Facade\\DPM225438_NguyenPhiLong_Pattern10_Facade.csproj",
+              "RelativeDocumentMoniker": "namespace DPM225438_NguyenPhiLong_Pattern10_Facade\\DPM225438_NguyenPhiLong_Pattern10_Facade.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\namespace DPM225438_NguyenPhiLong_Pattern10_Facade\\DPM225438_NguyenPhiLong_Pattern10_Facade.csproj",
+              "RelativeToolTip": "namespace DPM225438_NguyenPhiLong_Pattern10_Facade\\DPM225438_NguyenPhiLong_Pattern10_Facade.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-30T01:33:05.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld21_Strategy\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_RealWorld21_Strategy\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld21_Strategy\\Program.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_RealWorld21_Strategy\\Program.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAADwv2QAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:53:53.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Pattern22_Template\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_Pattern22_Template\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Pattern22_Template\\Program.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_Pattern22_Template\\Program.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAADwvzwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:54:31.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Pattern16_Iterator\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_Pattern16_Iterator\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Pattern16_Iterator\\Program.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_Pattern16_Iterator\\Program.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAkwIwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:46:32.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld15_Interpreter\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_RealWorld15_Interpreter\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld15_Interpreter\\Program.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_RealWorld15_Interpreter\\Program.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAswK4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:45:51.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Pattern15_Interpreter\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_Pattern15_Interpreter\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Pattern15_Interpreter\\Program.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_Pattern15_Interpreter\\Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAADwv1AAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:44:43.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld14_Command\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_RealWorld14_Command\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld14_Command\\Program.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_RealWorld14_Command\\Program.cs",
+              "ViewState": "AQIAAJkAAAAAAAAAAADwv8AAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:43:44.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Pattern14_Command\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_Pattern14_Command\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Pattern14_Command\\Program.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_Pattern14_Command\\Program.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAqwGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:42:58.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld13_Proxy\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_RealWorld13_Proxy\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld13_Proxy\\Program.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_RealWorld13_Proxy\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:41:41.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Pattern13_Chain\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_Pattern13_Chain\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Pattern13_Chain\\Program.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_Pattern13_Chain\\Program.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAADwv24AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:41:07.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld12_Proxy\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_RealWorld12_Proxy\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld12_Proxy\\Program.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_RealWorld12_Proxy\\Program.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAowE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:40:05.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Patern12_Proxy\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_Patern12_Proxy\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Patern12_Proxy\\Program.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_Patern12_Proxy\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAswEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:39:06.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DPM225438_NguyenPhiLong_Pattern11_Flyweight.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Pattern11_Flyweight\\DPM225438_NguyenPhiLong_Pattern11_Flyweight.csproj",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_Pattern11_Flyweight\\DPM225438_NguyenPhiLong_Pattern11_Flyweight.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Pattern11_Flyweight\\DPM225438_NguyenPhiLong_Pattern11_Flyweight.csproj",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_Pattern11_Flyweight\\DPM225438_NguyenPhiLong_Pattern11_Flyweight.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-30T01:37:18.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Patern11_Flyweight\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_Patern11_Flyweight\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Patern11_Flyweight\\Program.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_Patern11_Flyweight\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:35:47.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Pattern11_Flyweight\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_Pattern11_Flyweight\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Pattern11_Flyweight\\Program.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_Pattern11_Flyweight\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:34:57.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld010_Facade\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_RealWorld010_Facade\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld010_Facade\\Program.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_RealWorld010_Facade\\Program.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAADwv34AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:33:55.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\namespace DPM225438_NguyenPhiLong_Pattern10_Facade\\Program.cs",
+              "RelativeDocumentMoniker": "namespace DPM225438_NguyenPhiLong_Pattern10_Facade\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\namespace DPM225438_NguyenPhiLong_Pattern10_Facade\\Program.cs",
+              "RelativeToolTip": "namespace DPM225438_NguyenPhiLong_Pattern10_Facade\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:32:48.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\namespace DPM225438_NguyenPhiLong_RealWorld09_Decorator\\Program.cs",
+              "RelativeDocumentMoniker": "namespace DPM225438_NguyenPhiLong_RealWorld09_Decorator\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\namespace DPM225438_NguyenPhiLong_RealWorld09_Decorator\\Program.cs",
+              "RelativeToolTip": "namespace DPM225438_NguyenPhiLong_RealWorld09_Decorator\\Program.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAuwKsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:31:20.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DPM225438_NguyenPhiLong_Pattern09_Decorator.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld09_Decorator\\DPM225438_NguyenPhiLong_Pattern09_Decorator.csproj",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_RealWorld09_Decorator\\DPM225438_NguyenPhiLong_Pattern09_Decorator.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld09_Decorator\\DPM225438_NguyenPhiLong_Pattern09_Decorator.csproj",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_RealWorld09_Decorator\\DPM225438_NguyenPhiLong_Pattern09_Decorator.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-30T01:30:40.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ConcreteDecoratorA.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld09_Decorator\\ConcreteDecoratorA.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_RealWorld09_Decorator\\ConcreteDecoratorA.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld09_Decorator\\ConcreteDecoratorA.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_RealWorld09_Decorator\\ConcreteDecoratorA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:27:41.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Decorator.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld09_Decorator\\Decorator.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_RealWorld09_Decorator\\Decorator.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld09_Decorator\\Decorator.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_RealWorld09_Decorator\\Decorator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:27:14.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld09_Decorator\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_RealWorld09_Decorator\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld09_Decorator\\Program.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_RealWorld09_Decorator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:25:32.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ConcreteDecoratorB.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld09_Decorator\\ConcreteDecoratorB.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_RealWorld09_Decorator\\ConcreteDecoratorB.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld09_Decorator\\ConcreteDecoratorB.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_RealWorld09_Decorator\\ConcreteDecoratorB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:28:06.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ConcreteComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld09_Decorator\\ConcreteComponent.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_RealWorld09_Decorator\\ConcreteComponent.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld09_Decorator\\ConcreteComponent.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_RealWorld09_Decorator\\ConcreteComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:26:44.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Component.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld09_Decorator\\Component.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_RealWorld09_Decorator\\Component.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld09_Decorator\\Component.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_RealWorld09_Decorator\\Component.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:26:15.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CompositeElement.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld09_Composite\\CompositeElement.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_RealWorld09_Composite\\CompositeElement.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld09_Composite\\CompositeElement.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_RealWorld09_Composite\\CompositeElement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:23:36.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PrimitiveElement.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld09_Composite\\PrimitiveElement.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_RealWorld09_Composite\\PrimitiveElement.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld09_Composite\\PrimitiveElement.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_RealWorld09_Composite\\PrimitiveElement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:23:01.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DrawingElement.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld09_Composite\\DrawingElement.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_RealWorld09_Composite\\DrawingElement.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld09_Composite\\DrawingElement.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_RealWorld09_Composite\\DrawingElement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:22:34.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld09_Composite\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_RealWorld09_Composite\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld09_Composite\\Program.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_RealWorld09_Composite\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:21:39.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Component.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Pattern08_Composite\\Component.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_Pattern08_Composite\\Component.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Pattern08_Composite\\Component.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_Pattern08_Composite\\Component.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:20:20.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Leaf.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Pattern08_Composite\\Leaf.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_Pattern08_Composite\\Leaf.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Pattern08_Composite\\Leaf.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_Pattern08_Composite\\Leaf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:19:33.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Composite.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Pattern08_Composite\\Composite.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_Pattern08_Composite\\Composite.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Pattern08_Composite\\Composite.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_Pattern08_Composite\\Composite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:18:34.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DPM225438_NguyenPhiLong_Pattern08_Composite.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Pattern08_Composite\\DPM225438_NguyenPhiLong_Pattern08_Composite.csproj",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_Pattern08_Composite\\DPM225438_NguyenPhiLong_Pattern08_Composite.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Pattern08_Composite\\DPM225438_NguyenPhiLong_Pattern08_Composite.csproj",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_Pattern08_Composite\\DPM225438_NguyenPhiLong_Pattern08_Composite.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-30T01:17:24.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Pattern08_Composite\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_Pattern08_Composite\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_Pattern08_Composite\\Program.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_Pattern08_Composite\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T01:17:17.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld07_Bridge\\Program.cs",
+              "RelativeDocumentMoniker": "DPM225438_NguyenPhiLong_RealWorld07_Bridge\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DPM225438_NguyenPhiLong_PTBTPM\\DPM225438_NguyenPhiLong_RealWorld07_Bridge\\Program.cs",
+              "RelativeToolTip": "DPM225438_NguyenPhiLong_RealWorld07_Bridge\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T03:06:32.223Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
